@@ -1,0 +1,10 @@
+com\goparking\estacionamento\controller\exceptions\NonexistentEntityException.class
+com\goparking\estacionamento\controller\ClienteJpaController.class
+com\goparking\estacionamento\entity\Cliente.class
+com\goparking\estacionamento\controller\exceptions\RollbackFailureException.class
+com\goparking\estacionamento\controller\AbstractFacade.class
+com\goparking\estacionamento\controller\exceptions\IllegalOrphanException.class
+com\goparking\estacionamento\controller\exceptions\PreexistingEntityException.class
+com\goparking\estacionamento\controller\util\JsfUtil.class
+com\goparking\estacionamento\entity\Cliente_.class
+com\goparking\estacionamento\controller\util\JsfUtil$PersistAction.class

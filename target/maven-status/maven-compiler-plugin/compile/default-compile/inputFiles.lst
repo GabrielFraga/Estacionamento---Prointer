@@ -1,0 +1,13 @@
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\entity\Cliente.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\exceptions\NonexistentEntityException.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\exceptions\IllegalOrphanException.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\entity\Veiculo.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\VeiculoController.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\exceptions\PreexistingEntityException.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\util\JsfUtil.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\VeiculoFacade.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\exceptions\RollbackFailureException.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\ClienteJpaController.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\AbstractFacade.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\ClienteFacade.java
+C:\Users\FF\Documents\NetBeansProjects\Estacionamento\src\main\java\com\goparking\estacionamento\controller\ClienteController.java
