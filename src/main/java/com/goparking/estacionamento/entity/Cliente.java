@@ -26,11 +26,11 @@ public class Cliente implements Serializable {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     
-   @Column(nullable = false) 
+  
     private String nome;  
     
-   @OneToMany
-    private Veiculo veiculo;
+    @OneToMany
+    private Veiculo veículo;
 
   
     
@@ -44,11 +44,11 @@ public class Cliente implements Serializable {
     }
            
      public Veiculo getVeiculo() {
-        return veiculo;
+        return veículo;
     }
     
     public void setVeiculo(Veiculo veiculo) {
-        this.veiculo = veiculo;
+        this.veículo = veiculo;
     }
          
     

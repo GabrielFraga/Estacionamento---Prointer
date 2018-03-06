@@ -7,4 +7,5 @@ com\goparking\estacionamento\controller\exceptions\IllegalOrphanException.class
 com\goparking\estacionamento\controller\exceptions\PreexistingEntityException.class
 com\goparking\estacionamento\controller\util\JsfUtil.class
 com\goparking\estacionamento\entity\Cliente_.class
+com\goparking\estacionamento\entity\Veiculo_.class
 com\goparking\estacionamento\controller\util\JsfUtil$PersistAction.class
